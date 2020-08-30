@@ -15,7 +15,7 @@
 
 ## with 8 wires you can store numbers between 1 to 255 but with 32 wires it will be from 1 to 4 billion.
 ## fore store TEXTS WE give each letter a number starting with 1 and then convert the decimal number to binary number.
-## each image was created by pixels and each pixel have color and each color can represnted by numbers.
+> each image was created by pixels and each pixel have color and each color can represnted by numbers.
 
 
 
